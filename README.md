@@ -6,6 +6,8 @@ This is my first Python project. It is a simple calculator that takes two number
 * Subtraction (-)
 * Multiplication (*)
 * Division (/)
+* modulus(%)
+* Exponentiation(**) 
 
 ## Tools Used
 * Python
