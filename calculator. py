@@ -1,0 +1,15 @@
+#Taking input from the user
+num1=float(input("Enter the first number:"))
+num2=float(input("Enter the second number:"))
+
+# Performing calculation using arithmatic operators
+sum_result = num1 + num2
+sub_result = num1 - num2
+mul_result = num1 * num2
+div_result = num1 / num2
+
+#printing the output
+print("Addition result:",sum_result)
+print("Subtraction result:",sub_result)
+print("Multiplication result:",mul_result)
+print("Division result:",div_result)
