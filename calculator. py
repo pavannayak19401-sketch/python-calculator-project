@@ -7,9 +7,13 @@ sum_result = num1 + num2
 sub_result = num1 - num2
 mul_result = num1 * num2
 div_result = num1 / num2
+mod_result = num1 % num2
+exp_result = num1 ** num2
 
 #printing the output
 print("Addition result:",sum_result)
 print("Subtraction result:",sub_result)
 print("Multiplication result:",mul_result)
 print("Division result:",div_result)
+print("Remainder result:", mod_result)
+print("Power result:", exp_result)
